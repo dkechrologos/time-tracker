@@ -3,6 +3,6 @@ Java (Maven) application for tracking time on the job
 
 Time tracker
 
-## Causing trouble again
+## Purpose
 
-asdfdsfsdf sadfas
+to see some changes
